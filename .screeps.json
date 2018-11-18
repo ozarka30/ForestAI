@@ -1,0 +1,30 @@
+{
+  "main": {
+    "token": "",
+    "protocol": "https",
+    "hostname": "screeps.com",
+    "port": 443,
+    "path": "/",
+    "branch": "main"
+  },
+  "sim": {
+    "token": "YOUR_TOKEN",
+    "protocol": "https",
+    "hostname": "screeps.com",
+    "port": 443,
+    "path": "/",
+    "branch": "sim"
+  },
+  "pserver": {
+    "email": "ozz",
+    "password": "",
+    "protocol": "http",
+    "hostname": "1.2.3.4",
+    "port": 21025,
+    "path": "/",
+    "branch": "main"
+  },
+  "branch": "default",
+  "ptr": false,
+  "private_directory": "D:\\ScreepsAI\\test"
+}

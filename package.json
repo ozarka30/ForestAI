@@ -1,0 +1,35 @@
+{
+  "name": "forestai",
+  "version": "1.0.0",
+  "description": "AI for Screeps",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozarka30/ForestAI.git"
+  },
+  "author": "Adam Henderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozarka30/ForestAI/issues"
+  },
+  "homepage": "https://github.com/ozarka30/ForestAI#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-file-append": "0.0.7",
+    "grunt-jsbeautifier": "^0.2.13",
+    "time-grunt": "^2.0.0",
+    "@types/screeps": "^2.4.0"
+  },
+  "dependencies": {
+    "grunt-screeps": "^1.4.0",
+    "grunt-sync": "^0.8.0"
+  }
+}
